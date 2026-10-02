@@ -52,7 +52,7 @@ stronger model from a third family (Claude Haiku 4.5) confirmed a false claim in
 of evidence-backed ones.
 </details>
 
-**Preprint:** [paper/arxiv_pkg/ms.pdf](paper/arxiv_pkg/ms.pdf) (TMLR format, 11 pages; LaTeX sources in the same folder).
+**Preprint:** [paper/arxiv_pkg/score_audit_preprint.pdf](paper/arxiv_pkg/score_audit_preprint.pdf) (TMLR format, 11 pages; LaTeX sources in the same folder).
 
 ## Reproduce
 ```bash
