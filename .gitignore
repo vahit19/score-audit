@@ -4,3 +4,8 @@ __pycache__/
 .pytest_cache/
 .env
 results/cache/
+paper/arxiv_pkg/*.aux
+paper/arxiv_pkg/*.log
+paper/arxiv_pkg/*.blg
+paper/arxiv_pkg/*.out
+paper/ACADEMIC_WRITING_STANDARDS.md

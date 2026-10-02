@@ -52,6 +52,8 @@ stronger model from a third family (Claude Haiku 4.5) confirmed a false claim in
 of evidence-backed ones.
 </details>
 
+**Preprint:** [paper/arxiv_pkg/ms.pdf](paper/arxiv_pkg/ms.pdf) (TMLR format, 11 pages; LaTeX sources in the same folder).
+
 ## Reproduce
 ```bash
 uv sync && uv run pytest -q          # 9 tests, no API calls

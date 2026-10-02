@@ -11,6 +11,8 @@ import pandas as pd
 from score_audit.design_checks import composite_score, power_two_systems
 from score_audit.plotting import BLUE, GRAY, GREEN, RED, plt, results_dir, save
 
+plt.rcParams.update({"font.size": 13, "axes.titlesize": 13, "legend.fontsize": 11})  # readable at half page width
+
 P_A, P_B = 0.40, 0.35          # per-subtask success of two systems (a real 5-point gap)
 N_GRID = (50, 100, 200, 400, 800, 1600)
 N_SIM = 1500

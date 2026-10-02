@@ -11,6 +11,8 @@ import pandas as pd
 from score_audit.design_checks import simulate_adversarial_filtering
 from score_audit.plotting import BLUE, GRAY, RED, plt, results_dir, save
 
+plt.rcParams.update({"font.size": 13, "axes.titlesize": 13, "legend.fontsize": 11})  # readable at half page width
+
 N_SEEDS = 200
 N_FILTER = 5
 
@@ -58,9 +60,9 @@ def main():
     fig, ax = plt.subplots(figsize=(5.0, 3.6))
     ax.errorbar(dose.interaction_sd, dose.mean_gap_points, yerr=1.96 * dose.se, color=RED, marker="o", capsize=3)
     ax.axhline(0, color=GRAY, lw=0.8)
-    ax.set_xlabel("System-by-item interaction (sd); 0 = inert control")
-    ax.set_ylabel("Filter system minus twin (points)")
-    ax.set_title("The penalty appears only when items interact with systems")
+    ax.set_xlabel("Interaction sd (0 = inert control)")
+    ax.set_ylabel("Filter minus twin (points)")
+    ax.set_title("Penalty grows with interaction")
     save(fig, "fig1b_interaction_dose")
     print(df.round(3).to_string(index=False))
     print(dose.round(3).to_string(index=False))

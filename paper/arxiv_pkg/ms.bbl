@@ -1,0 +1,151 @@
+\begin{thebibliography}{17}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Card et~al.(2020)Card, Henderson, Khandelwal, Jia, Mahowald, and
+  Jurafsky]{card2020power}
+Dallas Card, Peter Henderson, Urvashi Khandelwal, Robin Jia, Kyle Mahowald, and
+  Dan Jurafsky.
+\newblock With little power comes great responsibility.
+\newblock In \emph{Proceedings of the 2020 Conference on Empirical Methods in
+  Natural Language Processing}, 2020.
+\newblock URL \url{https://aclanthology.org/2020.emnlp-main.745/}.
+
+\bibitem[Chen et~al.(2021)Chen, Tworek, Jun, Yuan, et~al.]{chen2021codex}
+Mark Chen, Jerry Tworek, Heewoo Jun, Qiming Yuan, et~al.
+\newblock Evaluating large language models trained on code.
+\newblock \emph{arXiv preprint arXiv:2107.03374}, 2021.
+
+\bibitem[Grattafiori et~al.(2024)Grattafiori, Dubey, Jauhri, Pandey,
+  et~al.]{grattafiori2024llama3}
+Aaron Grattafiori, Abhimanyu Dubey, Abhinav Jauhri, Abhinav Pandey, et~al.
+\newblock The {Llama} 3 herd of models.
+\newblock \emph{arXiv preprint arXiv:2407.21783}, 2024.
+
+\bibitem[Kran et~al.(2025)Kran, Nguyen, Kundu, Jawhar, Park, and
+  Jurewicz]{kran2025darkbench}
+Esben Kran, Hieu Minh~Jord Nguyen, Akash Kundu, Sami Jawhar, Jinsuk Park, and
+  Mateusz~Maria Jurewicz.
+\newblock {DarkBench}: Benchmarking dark patterns in large language models.
+\newblock In \emph{International Conference on Learning Representations}, 2025.
+\newblock arXiv:2503.10728.
+
+\bibitem[Le~Bras et~al.(2020)Le~Bras, Swayamdipta, Bhagavatula, Zellers,
+  Peters, Sabharwal, and Choi]{lebras2020adversarial}
+Ronan Le~Bras, Swabha Swayamdipta, Chandra Bhagavatula, Rowan Zellers,
+  Matthew~E. Peters, Ashish Sabharwal, and Yejin Choi.
+\newblock Adversarial filters of dataset biases.
+\newblock In \emph{Proceedings of the 37th International Conference on Machine
+  Learning}, volume 119 of \emph{Proceedings of Machine Learning Research},
+  2020.
+\newblock URL \url{https://proceedings.mlr.press/v119/bras20a.html}.
+
+\bibitem[Lin et~al.(2022)Lin, Hilton, and Evans]{lin2022truthfulqa}
+Stephanie Lin, Jacob Hilton, and Owain Evans.
+\newblock {TruthfulQA}: Measuring how models mimic human falsehoods.
+\newblock In \emph{Proceedings of the 60th Annual Meeting of the Association
+  for Computational Linguistics (Volume 1: Long Papers)}, 2022.
+\newblock URL \url{https://aclanthology.org/2022.acl-long.229/}.
+
+\bibitem[Maia~Polo et~al.(2024)Maia~Polo, Weber, Choshen, Sun, Xu, and
+  Yurochkin]{polo2024tiny}
+Felipe Maia~Polo, Lucas Weber, Leshem Choshen, Yuekai Sun, Gongjun Xu, and
+  Mikhail Yurochkin.
+\newblock {tinyBenchmarks}: Evaluating {LLMs} with fewer examples.
+\newblock In \emph{Proceedings of the 41st International Conference on Machine
+  Learning}, volume 235 of \emph{Proceedings of Machine Learning Research},
+  2024.
+\newblock URL \url{https://proceedings.mlr.press/v235/maia-polo24a.html}.
+
+\bibitem[Miller(2024)]{miller2024errorbars}
+Evan Miller.
+\newblock Adding error bars to evals: A statistical approach to language model
+  evaluations.
+\newblock \emph{arXiv preprint arXiv:2411.00640}, 2024.
+
+\bibitem[Min et~al.(2023)Min, Krishna, Lyu, Lewis, Yih, Koh, Iyyer,
+  Zettlemoyer, and Hajishirzi]{min2023factscore}
+Sewon Min, Kalpesh Krishna, Xinxi Lyu, Mike Lewis, Wen-tau Yih, Pang~Wei Koh,
+  Mohit Iyyer, Luke Zettlemoyer, and Hannaneh Hajishirzi.
+\newblock {FActScore}: Fine-grained atomic evaluation of factual precision in
+  long form text generation.
+\newblock In \emph{Proceedings of the 2023 Conference on Empirical Methods in
+  Natural Language Processing}, 2023.
+\newblock URL \url{https://aclanthology.org/2023.emnlp-main.741/}.
+
+\bibitem[Nie et~al.(2020)Nie, Williams, Dinan, Bansal, Weston, and
+  Kiela]{nie2020anli}
+Yixin Nie, Adina Williams, Emily Dinan, Mohit Bansal, Jason Weston, and Douwe
+  Kiela.
+\newblock Adversarial {NLI}: A new benchmark for natural language
+  understanding.
+\newblock In \emph{Proceedings of the 58th Annual Meeting of the Association
+  for Computational Linguistics}, 2020.
+\newblock URL \url{https://aclanthology.org/2020.acl-main.441/}.
+
+\bibitem[Panickssery et~al.(2024)Panickssery, Bowman, and
+  Feng]{panickssery2024self}
+Arjun Panickssery, Samuel~R. Bowman, and Shi Feng.
+\newblock {LLM} evaluators recognize and favor their own generations.
+\newblock In \emph{Advances in Neural Information Processing Systems 37}, 2024.
+\newblock arXiv:2404.13076.
+
+\bibitem[Phang et~al.(2022)Phang, Chen, Huang, and
+  Bowman]{phang2022adversarially}
+Jason Phang, Angelica Chen, William Huang, and Samuel~R. Bowman.
+\newblock Adversarially constructed evaluation sets are more challenging, but
+  may not be fair.
+\newblock In \emph{Proceedings of the First Workshop on Dynamic Adversarial
+  Data Collection}, 2022.
+\newblock URL \url{https://aclanthology.org/2022.dadc-1.8/}.
+
+\bibitem[Thakur et~al.(2025)Thakur, Choudhary, Ramayapally, Vaidyanathan, and
+  Hupkes]{thakur2025judging}
+Aman~Singh Thakur, Kartik Choudhary, Venkat~Srinik Ramayapally, Sankaran
+  Vaidyanathan, and Dieuwke Hupkes.
+\newblock Judging the judges: Evaluating alignment and vulnerabilities in
+  {LLMs}-as-judges.
+\newblock In \emph{Proceedings of the Fourth Workshop on Generation, Evaluation
+  and Metrics (GEM$^2$)}, 2025.
+\newblock URL \url{https://aclanthology.org/2025.gem-1.33/}.
+
+\bibitem[Wang et~al.(2024)Wang, Li, Chen, Cai, Zhu, Lin, Cao, Liu, Liu, and
+  Sui]{wang2024fair}
+Peiyi Wang, Lei Li, Liang Chen, Zefan Cai, Dawei Zhu, Binghuai Lin, Yunbo Cao,
+  Qi~Liu, Tianyu Liu, and Zhifang Sui.
+\newblock Large language models are not fair evaluators.
+\newblock In \emph{Proceedings of the 62nd Annual Meeting of the Association
+  for Computational Linguistics (Volume 1: Long Papers)}, 2024.
+\newblock URL \url{https://aclanthology.org/2024.acl-long.511/}.
+
+\bibitem[Wei et~al.(2024)Wei, Yang, Song, Lu, Hu, Huang, Tran, Peng, Liu,
+  Huang, Du, and Le]{wei2024longform}
+Jerry Wei, Chengrun Yang, Xinying Song, Yifeng Lu, Nathan Hu, Jie Huang, Dustin
+  Tran, Daiyi Peng, Ruibo Liu, Da~Huang, Cosmo Du, and Quoc~V. Le.
+\newblock Long-form factuality in large language models.
+\newblock In \emph{Advances in Neural Information Processing Systems 37}, 2024.
+\newblock arXiv:2403.18802.
+
+\bibitem[Zellers et~al.(2018)Zellers, Bisk, Schwartz, and
+  Choi]{zellers2018swag}
+Rowan Zellers, Yonatan Bisk, Roy Schwartz, and Yejin Choi.
+\newblock {SWAG}: A large-scale adversarial dataset for grounded commonsense
+  inference.
+\newblock In \emph{Proceedings of the 2018 Conference on Empirical Methods in
+  Natural Language Processing}, 2018.
+\newblock URL \url{https://aclanthology.org/D18-1009/}.
+
+\bibitem[Zheng et~al.(2023)Zheng, Chiang, Sheng, Zhuang, Wu, Zhuang, Lin, Li,
+  Li, Xing, Zhang, Gonzalez, and Stoica]{zheng2023judging}
+Lianmin Zheng, Wei-Lin Chiang, Ying Sheng, Siyuan Zhuang, Zhanghao Wu, Yonghao
+  Zhuang, Zi~Lin, Zhuohan Li, Dacheng Li, Eric~P. Xing, Hao Zhang, Joseph~E.
+  Gonzalez, and Ion Stoica.
+\newblock Judging {LLM}-as-a-judge with {MT}-bench and {C}hatbot {A}rena.
+\newblock In \emph{Advances in Neural Information Processing Systems 36,
+  Datasets and Benchmarks Track}, 2023.
+\newblock arXiv:2306.05685.
+
+\end{thebibliography}
