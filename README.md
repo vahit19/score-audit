@@ -7,6 +7,10 @@ judge to quote the false claim, and checking that quote, removes most of these f
 
 [![Watch the 4-minute walkthrough](media/video_thumbnail.png)](media/score-audit_video.mp4)
 
+
+https://github.com/user-attachments/assets/6ca80557-2f41-4c65-90b9-beb096b5e022
+
+
 ![Precision and recall of "incorrect" verdicts against human labels](figures/fig4_human_labels.png)
 
 | On 300 human-labelled TruthfulQA answers | Raw judge | With evidence check |
