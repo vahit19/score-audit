@@ -1,0 +1,13 @@
+n_problems,scoring,power
+50,all-or-nothing,0.06266666666666666
+50,partial credit,0.158
+100,all-or-nothing,0.09266666666666666
+100,partial credit,0.23666666666666666
+200,all-or-nothing,0.14666666666666667
+200,partial credit,0.44733333333333336
+400,all-or-nothing,0.2713333333333333
+400,partial credit,0.6973333333333334
+800,all-or-nothing,0.4746666666666667
+800,partial credit,0.9513333333333334
+1600,all-or-nothing,0.762
+1600,partial credit,1.0

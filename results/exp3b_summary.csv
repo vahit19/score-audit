@@ -1,0 +1,4 @@
+stage,contains_false_claim,no_false_claim,unclear,n,share_adjudicated_false
+evidence-backed,184,19,0,203,0.9064039408866995
+quoted claim judged not false,58,22,6,86,0.6744186046511628
+quote not in answer,23,7,2,32,0.71875
