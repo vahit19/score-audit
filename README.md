@@ -5,8 +5,6 @@
 Often it cannot. Against human labels, 1 in 10 to 1 in 5 of a judge's "incorrect" verdicts are wrong. Requiring the
 judge to quote the false claim, and checking that quote, removes most of these false accusations.
 
-[![Watch the 4-minute walkthrough](media/video_thumbnail.png)](media/score-audit_video.mp4)
-
 
 https://github.com/user-attachments/assets/6ca80557-2f41-4c65-90b9-beb096b5e022
 
